@@ -6,18 +6,19 @@ https://www.virtualbox.org/wiki/Downloads
 
 002 VMWare-Workstation-Player
 https://www.vmware.com/products/workstation-player/workstation-player-evaluation.html
+
 002 -ISO-Kali-Linux
-
 https://www.kali.org/downloads/
+
 002 -Kali
-
 https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
+
 002 -Parrot
-
 https://parrotlinux.org/
-002 -OWASP
 
+002 -OWASP
 https://sourceforge.net/projects/owaspbwa/
+
 002 -Dojo
 https://sourceforge.net/projects/websecuritydojo/
 
